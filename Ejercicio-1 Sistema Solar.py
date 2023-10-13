@@ -50,7 +50,7 @@ estrella = Group(
     )
 Estrella.dx = 10
 Estrella.dy = 10
-estrella.dx = 10
+estrella.dx = 10g
 estrella.dy = -10
 
 def enPaso():
